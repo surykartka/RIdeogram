@@ -697,7 +697,7 @@ ideogram <- function(karyotype, overlaid = NULL, label = NULL, label_type = NULL
                                       "\" y1=\"", mydata_interval$y0,
                                       "\" x2=\"", mydata_interval$x,
                                       "\" y2=\"", mydata_interval$y,
-                                      "\" style=\"stroke:#", mydata_interval$color, "; stroke-width:0.25\"/>", sep = "")
+                                      "\" style=\"stroke:#", mydata_interval$color2, "; stroke-width:0.25\"/>", sep = "")
 
 
         # legend for mydata2
